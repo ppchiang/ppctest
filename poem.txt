@@ -5,6 +5,7 @@ pink
 oragne
 blue
 green
+integal
 unicorn
 yellow
 red
